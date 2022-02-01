@@ -16,7 +16,7 @@
 
 # Diagram
 
-![Image text](https://github.com/Hxns/read-yml-app/blob/master/graph.jpg)
+![Image text](https://github.com/Hxns/read-yml-app/blob/master/docs/graph.jpg)
 
 
 # Extra
