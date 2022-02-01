@@ -7,6 +7,13 @@
 - VISUALIZE temperature and power.
 - REAL TIME every 5 seconds.
 
+# Previews
+
+![Image text](https://github.com/Hxns/read-yml-app/blob/master/docs/img.jpg)
+
+![Image text](https://github.com/Hxns/read-yml-app/blob/master/docs/img2.png)
+
+
 # Diagram
 
 ![Image text](https://github.com/Hxns/read-yml-app/blob/master/graph.jpg)
