@@ -14,9 +14,9 @@
 
 # Extra
 
-- [Video](https://www.linkedin.com/posts/hans-eliot-herzfelder-5b9452160_node-console-app-das-erste-video-von-vielen-activity-6802283531662880768-2eyc)
+- [Video](https://www.linkedin.com/feed/update/urn:li:ugcPost:6894128122778796032/)
 
-**Resources
+**Resources**
 
 - [Socket.IO](https://socket.io/)
 - [ng2-charts](https://valor-software.com/ng2-charts/)
