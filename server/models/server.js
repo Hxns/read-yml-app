@@ -55,7 +55,7 @@ class Server {
                         )
                     ) {
                         data.temperature.values[key].value = parseFloat(
-                            data.temperature.values[key].value
+                            data.temperature.values[key].value / 10
                         ) - 273.15;
                         this.io.emit("getTemperature", JSON.stringify(data.temperature.values[key]))
                         await this.sleep(5 * 1000);
