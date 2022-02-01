@@ -1,6 +1,6 @@
 # Real Time Read-YML
 
-**read DATA.yml APP** to display graph.
+**read data.yml APP** to display graph.
 
 # Objective
 
